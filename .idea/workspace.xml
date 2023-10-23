@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fde5d81-6b43-4a40-8838-010f463f7908" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/AlgorithmComplexity/AlgorithmComplexity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/AlgorithmComplexity/src/AlgorithmComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/AlgorithmComplexity/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/MaximunConsecutiveIncreasinglyString/MaximunConsecutiveIncreasinglyString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/MaximunConsecutiveIncreasinglyString/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/MaximunConsecutiveIncreasinglyString/src/MaximumConsecutiveIncreasinglyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciseBinarySearch/ExerciseBinarySearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciseBinarySearch/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciseBinarySearch/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice-Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringArrange/StringArrange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringArrange/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringArrange/src/StringArrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2X9v55Yo49BuLvQdFNP1uf7N9pW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "/Users/apple/Desktop/Codegym /Module-02-Java/13-Search-Algorithm/Practice-Exercise/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fde5d81-6b43-4a40-8838-010f463f7908" name="Changes" comment="" />
+      <created>1698053926884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698053926884</updated>
+      <workItem from="1698053928102" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
